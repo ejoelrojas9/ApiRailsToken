@@ -1,0 +1,11 @@
+class CreateApiV1Managers < ActiveRecord::Migration[7.0]
+  def change
+    create_table :api_v1_managers do |t|
+      t.string :first_name
+      t.string :last_name
+      t.text :notes
+
+      t.timestamps
+    end
+  end
+end
