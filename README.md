@@ -25,6 +25,6 @@ Things you may want to cover:
 # Requisites
 
 * Ruby 3.0.2+
-Ruby on Rails 7
-A Postgresql available server
-NodeJS (In non development machine)
+* Ruby on Rails 7
+* A Postgresql available server
+* NodeJS (In non development machine)
